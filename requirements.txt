@@ -1,0 +1,3 @@
+xlrd
+numpy
+xlwt

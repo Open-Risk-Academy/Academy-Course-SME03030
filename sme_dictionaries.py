@@ -1,6 +1,6 @@
-from xlrd import open_workbook
 import pprint
-import re
+
+from xlrd import open_workbook
 
 # open the workbook for reading
 wb = open_workbook('SME Template-ECB Version 20 Taxonomy.xls')
