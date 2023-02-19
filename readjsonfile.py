@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 13 14:45:21 2015
-
-@author: openrisk
-"""
+# (c) 2021 - 2023 Open Risk (https://www.openriskmanagement.com)
 
 import json
 

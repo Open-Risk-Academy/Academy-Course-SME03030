@@ -1,3 +1,5 @@
+# (c) 2021 - 2023 Open Risk (https://www.openriskmanagement.com)
+
 from xlrd import open_workbook
 
 # open the workbook for reading

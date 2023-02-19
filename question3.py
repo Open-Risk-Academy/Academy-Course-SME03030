@@ -1,5 +1,5 @@
-# import the require modules
-# use a convenient alias to reduce typing
+# (c) 2021 - 2023 Open Risk (https://www.openriskmanagement.com)
+
 import json
 
 import concentration_library as cl

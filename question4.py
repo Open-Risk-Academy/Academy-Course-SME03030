@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  7 15:08:55 2015
-
-@author: philippos
-"""
+# (c) 2021 - 2023 Open Risk (https://www.openriskmanagement.com)
 
 obligor = {
     "id": 1,
