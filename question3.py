@@ -2,7 +2,7 @@
 
 import json
 
-import concentration_library as cl
+import concentrationMetrics as cl
 import numpy as np
 
 # load the JSON data and parse it into a dictionary
